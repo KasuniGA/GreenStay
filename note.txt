@@ -1,0 +1,52 @@
+
+In our application, we have provided separate access for landlords, 
+who can log in to their accounts using the landlord login page. 
+Conversely, students, wardens, and the webmaster all utilize the 
+student login page to access their respective accounts.
+
+
+Login Credentials
+
+Login Credentials  for warden account (Login with Student Login)
+
+user name - warden 
+password - warden123
+
+Login Credentials  for web master account (Login with Student Login)
+
+
+username - master
+password - master123
+
+Login Credentials  for student account  (Login with Student Login)
+
+
+username - 27252
+password - kusal
+
+username - 27123
+password - kaumini
+
+username - 29230
+password - kasuni
+
+username - 28888
+password - vidumini
+
+username - 26912
+password - janaka
+
+username - 29456
+password - vihanga
+
+Login Credentials  for web Landlords account (Login with Landlord Login)
+
+username - 12345678910v
+password - 1234
+
+username - 10987654321v
+password - 1234
+
+username - 9874563211V
+password - 1234
+
